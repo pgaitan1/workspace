@@ -1,0 +1,21 @@
+package functionGenerator;
+
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.firefox.FirefoxDriver;
+
+public class LogInPractice {
+
+	public static void main(String[] args) {
+		
+		LoginFunction lif = new LoginFunction();
+		
+		WebDriver driver = new FirefoxDriver();
+		
+		driver.navigate().to("https://www.facebook.com/");
+		
+		lif.login();
+		
+
+	}
+
+}

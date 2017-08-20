@@ -1,0 +1,14 @@
+package functionGenerator;
+
+
+public class testRun2 {
+
+	public static void main(String[] args) {
+		
+	nameMaker name = new nameMaker();
+	String my_name = name.getFirstName("Paul");
+	System.out.println (my_name);
+	
+		
+	}
+}

@@ -1,0 +1,6 @@
+Feature: Testing the application
+Scenario: Title of your scenario
+Given user is on the homepage
+When user enters valid user name and password
+Then user should be able to login
+

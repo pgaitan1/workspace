@@ -1,0 +1,10 @@
+package javaTest;
+
+public interface CarDesign {
+	
+	public void go();
+	public void stop();
+	
+	}
+
+

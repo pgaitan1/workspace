@@ -1,0 +1,34 @@
+package testCollection;
+
+import org.junit.After;
+import org.junit.BeforeClass;
+import org.junit.Test;
+
+public class TestOrder {
+	
+	
+	@BeforeClass
+	public void beforetest (){
+		
+		
+	}
+	
+	@Test
+	public void mytestone (){
+		
+		
+	}
+	
+	@Test
+	public void mytesttwo (){
+		
+		
+	}
+	
+	@After
+	public void aftertest(){
+		
+		
+	}
+
+}

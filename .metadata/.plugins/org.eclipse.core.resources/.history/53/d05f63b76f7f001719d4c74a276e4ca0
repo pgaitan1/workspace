@@ -1,0 +1,6 @@
+Feature : Testing the login functions
+Scenario : Testing the login panel with valid credentials
+
+Given FireFox is open and user is in the login page
+When user enters valid username and password and clicks submit button
+Then user should be able to login

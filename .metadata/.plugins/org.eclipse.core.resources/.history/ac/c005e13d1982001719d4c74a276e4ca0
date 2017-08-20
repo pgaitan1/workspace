@@ -1,0 +1,38 @@
+package com.testng.jenkins.test1;
+
+
+import org.testng.annotations.Test;
+import org.testng.annotations.AfterTest;
+import org.testng.annotations.BeforeTest;
+
+public class TestApp {
+	
+	@BeforeTest
+	public void beforetest (){
+		System.out.println("I am in the before test");
+		
+	}
+	@Test
+	public void mytestone (){
+
+		System.out.println("I am in the test one");
+		
+	}
+	
+	
+	@Test
+	public void mytesttwo (){
+
+		System.out.println("I am in the test two");
+		
+		
+		
+	}
+	@AfterTest
+	public void aftertest(){
+
+		System.out.println("I am in the after test");
+		
+	}
+
+}

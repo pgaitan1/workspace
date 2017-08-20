@@ -1,0 +1,25 @@
+INDEX VERSION 1.127+/Users/paul/Desktop/Workspaces/Workspace1/.metadata/.plugins/org.eclipse.jdt.core
+2041934667.index
+969920119.index
+472014783.index
+2337832678.index
+941005215.index
+3389976201.index
+824527505.index
+865914752.index
+201255451.index
+772397892.index
+3176071116.index
+313757764.index
+1593335152.index
+395993765.index
+3497558436.index
+2091143241.index
+2925200487.index
+3135405855.index
+2265016323.index
+761353604.index
+91896808.index
+65204176.index
+231754491.index
+1382357522.index

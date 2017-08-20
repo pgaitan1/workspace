@@ -1,0 +1,22 @@
+package com.signup.module.module;
+
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.firefox.FirefoxDriver;
+
+public class LoginInTest {
+
+	public static void main(String[] args) {
+		
+		WebDriver driver = new FirefoxDriver();
+		
+		driver.navigate().to("https://www.facebook.com/");
+		driver.findElement(By.xpath(".//*[@id='u_0_4']")).sendKeys("Jim");
+		driver.findElement(By.xpath(".//*[@id='u_0_6']")).sendKeys("Bean");
+		driver.findElement(By.xpath(".//*[@id='u_0_9']")).sendKeys("jim.bean@yahoo.com");
+		driver.findElement(By.xpath(".//*[@id='u_0_g']")).sendKeys("asdasgs323");
+		
+
+	}
+
+}

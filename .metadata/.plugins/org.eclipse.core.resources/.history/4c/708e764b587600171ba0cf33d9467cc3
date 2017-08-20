@@ -1,0 +1,15 @@
+package functionGenerator;
+
+public class testRun {
+
+	public static void main(String[] args) {
+		
+		firstNameGenerator fng = new firstNameGenerator();
+		int x = fng.add (87,86);
+		System.out.println (x);
+		
+	
+
+	}
+
+}

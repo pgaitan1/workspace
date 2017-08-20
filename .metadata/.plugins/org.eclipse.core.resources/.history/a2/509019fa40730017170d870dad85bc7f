@@ -1,0 +1,20 @@
+package my_test;
+
+public class Animal_Main {
+
+	public static void main(String[] args) {
+		
+		Tiger t = new Tiger ();
+		
+		t.run();
+		
+		AbstractChild as = new AbstractChild();
+		
+		as.run();
+		
+		
+		
+		
+	}
+
+}

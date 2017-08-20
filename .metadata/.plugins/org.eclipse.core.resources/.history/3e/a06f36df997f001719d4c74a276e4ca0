@@ -1,0 +1,28 @@
+package stepdef;
+
+import cucumber.api.java.en.When;
+
+public class datadriventest {
+	
+
+@When("^user enters firstname \"([^\"]*)\" data driven$")
+public void user_enters_firstname_data_driven(String arg1) throws Throwable {
+    
+}
+
+@When("^user enters lastname \"([^\"]*)\" datadriven$")
+public void user_enters_lastname_datadriven(String arg1) throws Throwable {
+    
+}
+
+@When("^user enters mobile numbers \"([^\"]*)\" data driven$")
+public void user_enters_mobile_numbers_data_driven(String arg1) throws Throwable {
+    
+}
+
+@When("^user enters password \"([^\"]*)\" data driven$")
+public void user_enters_password_data_driven(String arg1) throws Throwable {
+    
+}
+
+}

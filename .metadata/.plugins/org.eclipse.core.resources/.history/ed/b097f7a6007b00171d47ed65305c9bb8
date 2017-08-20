@@ -1,0 +1,8 @@
+package abstrac;
+
+public class Test1 {
+	
+	testAbstract ta1 = new testAbstract();
+	
+
+}

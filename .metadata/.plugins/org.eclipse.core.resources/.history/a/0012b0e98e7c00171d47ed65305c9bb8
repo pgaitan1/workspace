@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<suit name = "Test1">
+<test name = "My Test">
+<classes>
+
+<class name = "testrun1"
+
+
+
+
+
+</classes>
+</test>
+</suit>

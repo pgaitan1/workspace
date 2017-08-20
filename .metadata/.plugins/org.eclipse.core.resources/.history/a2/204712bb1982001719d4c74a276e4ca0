@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name = "Test Suite" >
+
+<test name = "Regression Testing">
+
+
+<classes>
+
+<class name = "com.testng.jenkins.test1" ></class>
+<class name = "com.testng.jenkins.test1.TestApp"></class>
+
+
+</classes>
+
+</test>
+</suite>

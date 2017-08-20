@@ -1,0 +1,8 @@
+package abstrac;
+
+public class Childabs {
+	
+	Test1 ts1 = new Test1();
+	ts1.
+
+}

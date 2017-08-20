@@ -1,0 +1,9 @@
+Feature: testing the datadriven feature on facebook application
+Scenario Outline: data driving test for facebook
+
+Given when the user is on the facebook homepage
+When user enters first name
+And user enters last name
+And user enters mobile bumber
+And user enters password
+Then user should be able to sign up

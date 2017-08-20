@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move 3 elements to &apos;jenkins.test1/src/test/java/com.testng.jenkins.test1&apos;&#x0A;- Original project: &apos;TestFramework&apos;&#x0A;- Destination element: &apos;jenkins.test1/src/test/java/com.testng.jenkins.test1&apos;&#x0A;- Original elements:&#x0A;     testCollection.TestConfig.java&#x0A;     testCollection.TestOrder.java&#x0A;     testCollection.TestApp.java&#x0A;- Update references to refactored element" description="Move compilation units" destination="=jenkins.test1/src\/test\/java&lt;com.testng.jenkins.test1" element1="/src&lt;testCollection{TestConfig.java" element2="/src&lt;testCollection{TestOrder.java" element3="/src&lt;testCollection{TestApp.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" patterns="*" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1502642698764" units="3" version="1.0"/>
+</session>

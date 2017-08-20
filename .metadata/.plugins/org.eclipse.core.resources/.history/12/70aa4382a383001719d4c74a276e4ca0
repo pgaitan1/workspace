@@ -1,0 +1,37 @@
+package assertpractice;
+
+public class assert1 {
+	
+	@Test public void testCaseVerifyHomePage() {
+
+		driver= new FirefoxDriver();
+
+		driver.navigate().to("http://google.com");
+
+		Assert.assertEquals("Google", driver.getTitle());
+
+		}
+
+		 
+
+		 
+
+		@Test public void testCaseVerifyHomePage() {
+
+		driver= new FirefoxDriver();
+
+		driver.navigate().to("http://google.com");
+
+		Assert.assertEquals("Gooogle", driver.getTitle(), "Strings are not matching");
+
+		//Write a code to login and write a method called isUserLoggedInSuccessfully and isUserLoggedOut which returns boolean.
+
+		Assert.assertTrue(isUserLoggedInSuccessfully(), "User failed to login"); Assert.assertFalse(isUserLoggedOut())
+
+		}
+
+		}
+
+
+
+}

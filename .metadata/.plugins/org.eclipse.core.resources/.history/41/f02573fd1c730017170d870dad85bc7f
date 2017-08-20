@@ -1,0 +1,19 @@
+package my_test;
+
+public class Animal {
+	
+	public int numberOfLegs;
+	public String animalName;
+	
+	public void run (){
+		
+		System.out.println ("Tha animal is running");
+	}
+	
+	public void sleep (){
+		
+		System.out.println ("The animal is sleeping");
+		
+	}
+
+}

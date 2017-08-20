@@ -1,0 +1,27 @@
+package functionGenerator;
+
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.firefox.FirefoxDriver;
+
+public class LoginFunction {
+
+	
+	WebDriver driver = new FirefoxDriver();
+	
+	
+	public void login (){
+		
+		@SuppressWarnings("unused")
+		WebElement firstname = driver.findElement(By.xpath(".//*[@id='u_0_2']"));
+		@SuppressWarnings("unused")
+		WebElement lastname = driver.findElement(By.xpath(".//*[@id='u_0_4']"));
+		@SuppressWarnings("unused")
+		WebElement email = driver.findElement(By.xpath(".//*[@id='u_0_7']"));
+		@SuppressWarnings("unused")
+		WebElement password = driver.findElement(By.xpath(".//*[@id='u_0_e']"));
+		
+	}
+
+}

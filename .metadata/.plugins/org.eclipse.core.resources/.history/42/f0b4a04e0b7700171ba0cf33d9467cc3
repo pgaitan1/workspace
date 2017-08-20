@@ -1,0 +1,15 @@
+package functionGenerator;
+
+public class FunctionClass {
+	
+	String username = "Paul";
+	String password = "Test";
+	
+	private void Login (String username, String password){
+		
+		
+		System.out.println("Login in with " + username);
+		System.out.println("Login in with " + password);
+	}
+
+}

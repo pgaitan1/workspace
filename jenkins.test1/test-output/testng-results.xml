@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Test Suite" duration-ms="115" started-at="2017-08-16T00:28:13Z" finished-at="2017-08-16T00:28:13Z">
+    <groups>
+    </groups>
+    <test name="Regression Testing" duration-ms="115" started-at="2017-08-16T00:28:13Z" finished-at="2017-08-16T00:28:13Z">
+      <class name="com.testng.jenkins.test1.test2">
+        <test-method status="PASS" signature="mytesttwo()[pri:1, instance:com.testng.jenkins.test1.test2@6d8a00e3]" name="mytesttwo" duration-ms="6" started-at="2017-08-15T20:28:13Z" finished-at="2017-08-15T20:28:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mytesttwo -->
+        <test-method status="PASS" signature="mytestone()[pri:2, instance:com.testng.jenkins.test1.test2@6d8a00e3]" name="mytestone" duration-ms="23" started-at="2017-08-15T20:28:13Z" finished-at="2017-08-15T20:28:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mytestone -->
+      </class> <!-- com.testng.jenkins.test1.test2 -->
+      <class name="com.testng.jenkins.test1.test1">
+        <test-method status="PASS" signature="beforetest()[pri:0, instance:com.testng.jenkins.test1.test1@5ae9a829]" name="beforetest" is-config="true" duration-ms="13" started-at="2017-08-15T20:28:13Z" finished-at="2017-08-15T20:28:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforetest -->
+        <test-method status="PASS" signature="beforetest()[pri:0, instance:com.testng.jenkins.test1.test2@6d8a00e3]" name="beforetest" is-config="true" duration-ms="1" started-at="2017-08-15T20:28:13Z" finished-at="2017-08-15T20:28:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforetest -->
+        <test-method status="PASS" signature="mytesttwo()[pri:1, instance:com.testng.jenkins.test1.test1@5ae9a829]" name="mytesttwo" duration-ms="9" started-at="2017-08-15T20:28:13Z" finished-at="2017-08-15T20:28:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mytesttwo -->
+        <test-method status="PASS" signature="mytestone()[pri:2, instance:com.testng.jenkins.test1.test1@5ae9a829]" name="mytestone" duration-ms="8" started-at="2017-08-15T20:28:13Z" finished-at="2017-08-15T20:28:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mytestone -->
+        <test-method status="PASS" signature="aftertest()[pri:0, instance:com.testng.jenkins.test1.test1@5ae9a829]" name="aftertest" is-config="true" duration-ms="1" started-at="2017-08-15T20:28:13Z" finished-at="2017-08-15T20:28:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftertest -->
+        <test-method status="PASS" signature="aftertest()[pri:0, instance:com.testng.jenkins.test1.test2@6d8a00e3]" name="aftertest" is-config="true" duration-ms="1" started-at="2017-08-15T20:28:13Z" finished-at="2017-08-15T20:28:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftertest -->
+      </class> <!-- com.testng.jenkins.test1.test1 -->
+    </test> <!-- Regression Testing -->
+  </suite> <!-- Test Suite -->
+</testng-results>

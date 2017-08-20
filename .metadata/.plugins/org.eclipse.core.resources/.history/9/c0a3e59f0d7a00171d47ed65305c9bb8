@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name = "Test Suite" ></suite>
+
+<test name = "Regression Testing">
+
+
+<classes>
+
+<class name = "testCollection.TestConfig" </class>
+
+
+
