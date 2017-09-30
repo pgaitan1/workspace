@@ -1,0 +1,15 @@
+package package2;
+
+import package1.function1;
+
+public class testRun {
+
+	public static void main(String[] args) {
+		
+		function1 obj = new function1();
+		
+		
+
+	}
+
+}

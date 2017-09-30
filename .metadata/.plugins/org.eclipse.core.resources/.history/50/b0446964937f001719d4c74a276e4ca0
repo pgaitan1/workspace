@@ -1,9 +1,0 @@
-Feature: testing the datadriven feature on facebook application
-Scenario Outline: data driving test for facebook
-
-Given when the user is on the facebook homepage
-When user enters <firstname> data driven
-And user enters <lastname> datadriven
-And user enters <mobilenumber> data driven
-And user enters <password> data driven
-Then user should be able to sign up data driven

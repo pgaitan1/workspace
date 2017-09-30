@@ -11,7 +11,7 @@ public class test1 {
 		System.out.println("I am in the before test");
 		
 	}
-	@Test (priority = 2)
+	@Test 
 	public void mytestone (){
 
 		System.out.println("I am in the test one");
@@ -19,7 +19,7 @@ public class test1 {
 	}
 	
 	
-	@Test (priority = 1)
+	@Test 
 	public void mytesttwo (){
 
 		System.out.println("I am in the test one");

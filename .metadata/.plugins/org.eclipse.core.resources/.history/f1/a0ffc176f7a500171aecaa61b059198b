@@ -1,0 +1,13 @@
+package package1;
+
+public class function1 {
+	
+public static void runclass (){
+	int x = 34;
+	int y = 50;
+	
+	int Sum = x +y;
+	
+}
+
+}

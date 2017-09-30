@@ -1,0 +1,10 @@
+package alert;
+
+import org.openqa.selenium.WebDriver;
+
+public class alertpractice {
+	
+	
+		
+	}
+

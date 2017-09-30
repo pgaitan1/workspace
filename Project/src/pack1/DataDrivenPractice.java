@@ -64,10 +64,10 @@ int myRows,myCols;
 	
 	mydriver.navigate().to(myURL);	
 	
-	mydriver.findElement(By.xpath(".//*[@id='u_0_2']")).sendKeys(firstname);
-	mydriver.findElement(By.xpath(".//*[@id='u_0_4']")).sendKeys(lastname);
-	mydriver.findElement(By.xpath(".//*[@id='u_0_7']")).sendKeys(email);
-	mydriver.findElement(By.xpath(".//*[@id='u_0_e']")).sendKeys(password);
+	mydriver.findElement(By.xpath(".//*[@id='u_0_7']")).sendKeys(firstname);
+	mydriver.findElement(By.xpath(".//*[@id='u_0_9']")).sendKeys(lastname);
+	mydriver.findElement(By.xpath(".//*[@id='u_0_c']")).sendKeys(email);
+	mydriver.findElement(By.xpath(".//*[@id='u_0_j']")).sendKeys(password);
 	
 	
 	

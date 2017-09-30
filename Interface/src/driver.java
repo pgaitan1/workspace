@@ -8,7 +8,6 @@ public class driver {
 		
 		vehicle mymercedes = new mercedes();
 		mymercedes.accelerate();
-		
 
 	}
 

@@ -1,0 +1,14 @@
+package package1;
+
+public class function1 {
+	
+public int add(int x, int y){
+	x = 34;
+	y = 50;
+	
+	int Sum = x +y;
+	return Sum;
+	
+}
+
+}

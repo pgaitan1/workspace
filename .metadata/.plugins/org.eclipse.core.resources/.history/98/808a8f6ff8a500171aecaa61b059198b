@@ -1,0 +1,18 @@
+package package1;
+
+public class testRun {
+
+	public static void main(String[] args) {
+		
+		function1 abj = new function1();
+		
+		abj.add(12, 14);
+		
+		abj.printmyname(null);
+		
+		
+		
+		
+	}
+
+}

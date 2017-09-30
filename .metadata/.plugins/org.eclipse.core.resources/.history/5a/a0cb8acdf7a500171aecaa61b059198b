@@ -1,0 +1,18 @@
+package package1;
+
+public class testRun {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		
+		int x = 34;
+		int y = 50;
+		
+		int Sum = x +y;
+		
+		System.out.println (Sum);
+
+	}
+
+}

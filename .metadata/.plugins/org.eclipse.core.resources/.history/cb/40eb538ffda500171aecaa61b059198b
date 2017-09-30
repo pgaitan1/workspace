@@ -1,0 +1,24 @@
+package package1;
+
+import java.util.Scanner;
+
+public class function1 {
+	
+	Scanner scan = new Scanner(System.in);
+	
+	
+public int add(int x, int y){
+	
+	x = scan.nextInt();
+	y = scan.nextInt();
+	int Sum = x +y;
+	return Sum;
+	
+}
+	public void printmyname (String firstName){
+		
+		System.out.println(firstName);
+		
+	}
+
+}

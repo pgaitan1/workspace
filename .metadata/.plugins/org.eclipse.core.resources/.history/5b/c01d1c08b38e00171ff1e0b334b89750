@@ -1,0 +1,7 @@
+package abstrac;
+
+public class recepie{
+	
+	public void static main (String [] args) {
+
+}

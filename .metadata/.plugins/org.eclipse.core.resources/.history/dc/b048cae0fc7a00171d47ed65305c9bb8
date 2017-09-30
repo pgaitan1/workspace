@@ -1,7 +1,0 @@
-package javaTest;
-
-import vehicle;
-
-public class CarGo implements vehicle {
-
-}

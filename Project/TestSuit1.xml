@@ -6,6 +6,7 @@
 <classes>
 
 <class name = "pack1.TestA"></class>
+<class name = "pack1.TestB"></class>
 
 
 </classes>

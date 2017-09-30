@@ -1,8 +1,0 @@
-package javaTest;
-
-public class NewCar {
-	
-	CarDesign cd1 = new CarGo();
-	
-
-}

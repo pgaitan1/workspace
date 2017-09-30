@@ -1,0 +1,19 @@
+package abstrac;
+
+public class recepie {
+
+	public static void main(String[] args) {
+		
+		food sandwich [] = new food [2];
+		sandwich [1] = new tuna();
+		sandwich [2] = new potpie();
+		
+		for (int x=0; x<2; x++){
+			
+			sandwich[x].eat();
+			
+		}
+		
+		}
+
+	}

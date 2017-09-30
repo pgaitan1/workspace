@@ -1,0 +1,14 @@
+package abstrac;
+
+public class recepie {
+
+	public static void main(String[] args) {
+		
+		food sandwich [] = new food [2];
+		sandwich [1] = new tuna();
+		sandwich [2] = new potpie();
+		
+		
+		}
+
+	}
