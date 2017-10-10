@@ -15,8 +15,6 @@ public class testRun {
 		abj.printmyname("Paul");
 		
 		
-		
-		
 	}
 
 }

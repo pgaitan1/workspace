@@ -1,0 +1,14 @@
+package arrayPractice;
+
+public class array1 {
+	
+	void test () {
+		 int arr [] = {2,8,15,1,24,13,4} ; 
+		 int n = 7;
+		 for (int i = 1;i<=n;i++);
+		 
+		
+	}
+	
+
+}

@@ -1,0 +1,28 @@
+package polymorphism;
+
+public class compile1 {
+
+	public static void main(String[] args) {
+	
+	compile1 obj1 = new compile1();
+	
+	obj1.add(23, 45);
+	obj1.add(34, 34, 21);
+	}
+		
+		public void add (int a, int b){
+			
+			int c = a+b;
+			System.out.println ("Sum of numbers is " + c);
+			
+		}
+		
+public void add (int a, int b, int d){
+			
+			int c = a+b+d;
+			System.out.println ("Sum of numbers is " + d);
+			
+		}
+	
+
+}

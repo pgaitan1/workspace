@@ -14,5 +14,6 @@
 	<classpathentry kind="lib" path="lib/cucumber-reporting-3.9.0.jar"/>
 	<classpathentry kind="lib" path="lib/mockito-all-2.0.2-beta.jar"/>
 	<classpathentry kind="lib" path="lib/gherkin-2.12.2.jar"/>
+	<classpathentry kind="lib" path="lib/gherkin-2.12.1.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
